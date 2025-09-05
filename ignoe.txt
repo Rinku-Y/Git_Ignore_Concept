@@ -1,0 +1,1 @@
+We are going to study about the git ignore concept
